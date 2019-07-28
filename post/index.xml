@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ZH-TX的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 17:35:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 11:58:06 +0200</lastBuildDate>
     
 	<atom:link href="https://zh-tx.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog2</title>
+      <link>https://zh-tx.github.io/2019/07/26/blog2/</link>
+      <pubDate>Fri, 26 Jul 2019 11:58:06 +0200</pubDate>
+      
+      <guid>https://zh-tx.github.io/2019/07/26/blog2/</guid>
+      <description>这是一个测试blog;</description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -18,15 +27,6 @@
       
       <guid>https://zh-tx.github.io/2019/07/25/blog/</guid>
       <description>&lt;p&gt;这个话题乍一听起来有点匪夷所思，怎么叫像婴儿一样去学英语呢？其实道理并不复杂。如今全中国有四亿英语学习者，花了几百亿人民币学英语，结果学的一塌糊涂。我们整天高呼讲一口流利的英语，那么有几个人能够真正做到讲一口“流利”的英语？就像我在前面一篇文章里说的，能否用英语思维是衡量英语水平的一个重要标准！换句话说，要想真正做到流利，做到“不假思索”的说英语，具备美语思维能力是非常重要的！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>hh</title>
-      <link>https://zh-tx.github.io/2019/07/25/hh/</link>
-      <pubDate>Thu, 25 Jul 2019 17:35:47 +0800</pubDate>
-      
-      <guid>https://zh-tx.github.io/2019/07/25/hh/</guid>
-      <description>这个话题乍一听起来有点匪夷所思，怎么叫像婴儿一样去学英语呢？其实道理并不复杂。如今全中国有四亿英语学习者，花了几百亿人民币学英语，结果学的一塌糊涂。我们整天高呼讲一口流利的英语，那么有几个人能够真正做到讲一口“流利”的英语？就像我在前面一篇文章里说的，能否用英语思维是衡量英语水平的一个重要标准！换句话说，要想真正做到流利，做到“不假思索”的说英语，具备美语思维能力是非常重要的！</description>
     </item>
     
     <item>
@@ -59,13 +59,22 @@
     </item>
     
     <item>
-      <title>How to add pages to the menu</title>
-      <link>https://zh-tx.github.io/2015/10/02/how-to-add-pages-to-the-menu/</link>
+      <title></title>
+      <link>https://zh-tx.github.io/2015/10/02/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://zh-tx.github.io/2015/10/02/how-to-add-pages-to-the-menu/</guid>
+      <guid>https://zh-tx.github.io/2015/10/02/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zh-tx.github.io/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zh-tx.github.io/1/01/01/</guid>
+      <description></description>
     </item>
     
   </channel>

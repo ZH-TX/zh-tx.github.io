@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>How to add pages to the menu</title>
-      <link>https://zh-tx.github.io/2015/10/02/how-to-add-pages-to-the-menu/</link>
+      <title></title>
+      <link>https://zh-tx.github.io/2015/10/02/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://zh-tx.github.io/2015/10/02/how-to-add-pages-to-the-menu/</guid>
+      <guid>https://zh-tx.github.io/2015/10/02/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  </description>
     </item>
